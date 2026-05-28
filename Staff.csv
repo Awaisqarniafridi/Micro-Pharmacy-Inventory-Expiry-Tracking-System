@@ -1,0 +1,6 @@
+StaffID,FullName,Username,PasswordHash,Role
+1,Awais Qarni,awais.q,e86f78a8a3caf0b60d8e74e5942aa6d86dc150cd3c03338aef25b7d2d7e3acc7,Admin
+2,Sara Malik,sara.m,3bbc696817a5748293b699c30c6e1fbf88664068e9a6e882a0d87e41b055c3c2,Pharmacist
+3,Bilal Hussain,bilal.h,62a10d195a343cfc48da4c06b579946d389144a872ae23921d586b2ee7feed20,Pharmacist
+4,Nadia Farooq,nadia.f,23bb9143e5d8dfcc4bd0bb08d4e9a86d69250aa4332478dc2029c0398e8ee9a7,Pharmacist
+5,Umar Siddiqui,umar.s,7f484e682c9cf4c42e9cba611bcf04c18d1372bb920756c657c8c0233a2693ae,Admin

@@ -1,0 +1,16 @@
+MedicineID,BrandName,GenericName,CategoryID,Description
+1,Augmentin 625mg,Amoxicillin/Clavulanate,1,Broad-spectrum antibiotic
+2,Panadol Extra,Paracetamol/Caffeine,2,Pain and fever relief
+3,Brufen 400mg,Ibuprofen,2,NSAID anti-inflammatory
+4,Centrum Silver,Multivitamin,3,Daily multivitamin for adults
+5,Crestor 10mg,Rosuvastatin,4,Cholesterol management
+6,Norvasc 5mg,Amlodipine,4,Calcium channel blocker
+7,Glucophage 500mg,Metformin HCl,5,Type-2 diabetes management
+8,Actifed Syrup,Triprolidine/Pseudoephedrine,6,Allergy & cold relief
+9,Nexium 20mg,Esomeprazole,7,Proton pump inhibitor
+10,Gaviscon Advance,Sodium Alginate,7,Acid reflux relief
+11,Betnovate Cream,Betamethasone Valerate,8,Topical corticosteroid
+12,Clindamycin 300mg,Clindamycin HCl,1,Antibiotic for skin/bone infections
+13,Voltaren 50mg,Diclofenac Sodium,2,NSAID for pain & inflammation
+14,Vitamin D3 1000IU,Cholecalciferol,3,Vitamin D supplement
+15,Ciplox 500mg,Ciprofloxacin,1,Fluoroquinolone antibiotic
